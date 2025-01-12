@@ -6,7 +6,9 @@ A simple tool for encrypting and decrypting secrets message using a password.
 - Docker must be installed on your system.
 
 Build the Docker Image:
+```shell
 docker build -t secret-message .
+```
 
 ## Usage:
 
