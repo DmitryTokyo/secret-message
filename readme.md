@@ -14,7 +14,7 @@ docker build -t secret-message .
 
 1. Encrypt a Secret:
 ```shell
-docker run -it --rm secret-message -p your_password -m "Your secret message".
+docker run -it --rm secret-message -p your_password -m Your secret message
 ```
 - Password is required.
 - Message is optional. If not provided, you will be prompted to enter it interactively.
