@@ -1,0 +1,10 @@
+Dockerfile
+.gitignore
+venv
+.git
+*.pyc
+*.pyo
+__pycache__/
+*.log
+*.sqlite3
+*.env
